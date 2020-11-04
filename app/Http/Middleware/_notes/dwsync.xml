@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Authenticate.php" server="ftpupload.net/htdocs/" local="132382441180000000" remote="132489206400000000" />
+<file name="CheckForMaintenanceMode.php" server="ftpupload.net/htdocs/" local="132382441180000000" remote="132489206400000000" />
+<file name="EncryptCookies.php" server="ftpupload.net/htdocs/" local="132382441180000000" remote="132489206400000000" />
+<file name="RedirectIfAuthenticated.php" server="ftpupload.net/htdocs/" local="132389563280000000" remote="132489206400000000" />
+<file name="TrimStrings.php" server="ftpupload.net/htdocs/" local="132382441180000000" remote="132489206400000000" />
+<file name="TrustHosts.php" server="ftpupload.net/htdocs/" local="132382441180000000" remote="132489206400000000" />
+<file name="TrustProxies.php" server="ftpupload.net/htdocs/" local="132382441180000000" remote="132489206400000000" />
+<file name="VerifyCsrfToken.php" server="ftpupload.net/htdocs/" local="132382441180000000" remote="132489206400000000" />
+</dwsync>
